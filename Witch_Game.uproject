@@ -14,6 +14,29 @@
 		{
 			"Name": "ElectraPlayer",
 			"Enabled": true
+		},
+		{
+			"Name": "ChaosCachingUSD",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "ChaosClothAsset",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosClothAssetEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosClothEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosClothGenerator",
+			"Enabled": true
 		}
 	]
 }
