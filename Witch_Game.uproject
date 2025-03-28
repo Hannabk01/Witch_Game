@@ -37,6 +37,10 @@
 		{
 			"Name": "ChaosClothGenerator",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
